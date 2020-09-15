@@ -7,6 +7,9 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  constructor() { }
+  slidesOptions = {
+    slidesPerView: 1.2,
+  };
 
 }
