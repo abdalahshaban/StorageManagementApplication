@@ -1,0 +1,2 @@
+# StorageManagementApplication
+ionic StorageManagementApplication UI only
